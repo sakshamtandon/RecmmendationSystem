@@ -14,12 +14,11 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 
 ## Included Files:
 
-### Notebooks
+### Streamlit
 
--   Data Cleaning.ipynb (Notebook for cleaning the anime and ratings datasets that will be used)
--   Exploratory Data Analysis.ipynb (Exploring the data and trying to extract insights and patterns before building the recommendation system)
--   Content Based Filtering.ipynb (Notebook containing the code for the content based recommender)
--   Collaborative Filtering.ipynb (Notebook containing the code for the collaborative filtering recommender)
+- Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
+
+- To run this project -> streamlit run gui.py
 
 ### Datasets
 
@@ -42,7 +41,7 @@ I was an avid anime fan and this lead me to pursue this project of creating a re
 
 #### Anime and Rating Datasets
 
-For this project, I originally used an anime dataset by CooperUnion for data cleaning, data exploration, and model building. However, as I was developing the deployment website, I though maybe I should use a more up to data dataset. This led me to use Marlesson's data which will be use for deployment purposes.
+For this project, I initially used an anime dataset by CooperUnion for data cleaning, data exploration, and model creation. However, when I was designing the deployment webpage, I thought maybe I might use a more up to data dataset. This lead me to use Marlesson's data which would be used for deployment purposes.
 
 -   Original dataset: https://www.kaggle.com/CooperUnion/anime-recommendations-database.
--   Deployment dataset: https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews
+-   Deployment dataset: https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews.
